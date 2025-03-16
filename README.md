@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📌 Screenshot
 
-![Book Review App](./REST API Server.png)
+![Book Review App](https://github.com/Willie-Conway/Book-Review-Application/blob/48c5811c90a39fc62686f78e9561991fa4b36170/Screenshots/REST%20API%20Server.png)
 
 ---
 
