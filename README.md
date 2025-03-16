@@ -147,7 +147,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 > "The best way to predict the future is to create it." – Abraham Lincoln 🌟
-```
-
-
 
