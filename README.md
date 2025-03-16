@@ -4,6 +4,16 @@ Welcome to the **Book Review Application**! 🎉 This app allows users to browse
 
 ---
 
+## 🎯 Objectives
+
+After completing this lab, you will be able to:
+
+- **Create APIs** and perform **CRUD operations** on an Express server using **Session & JWT authentication**.
+- Use **Async/Await** or **Promises** with **Axios** in Node.js.
+- Create **REST API endpoints** and test them using **Postman**.
+
+---
+
 ## 📋 Table of Contents
 
 1. [About](#about)
@@ -143,8 +153,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📌 Screenshot
 
 ![Book Review App](https://github.com/Willie-Conway/Book-Review-Application/blob/48c5811c90a39fc62686f78e9561991fa4b36170/Screenshots/REST%20API%20Server.png)
-
----
 
 > "The best way to predict the future is to create it." – Abraham Lincoln 🌟
 
