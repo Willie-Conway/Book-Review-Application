@@ -155,4 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Book Review App](https://github.com/Willie-Conway/Book-Review-Application/blob/48c5811c90a39fc62686f78e9561991fa4b36170/Screenshots/REST%20API%20Server.png)
 
-> "The best way to predict the future is to create it." – Abraham Lincoln 🌟
