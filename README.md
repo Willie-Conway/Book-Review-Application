@@ -25,6 +25,7 @@ Welcome to the **Book Review Application**! 🎉 This app allows users to browse
 6. [API Endpoints](#api-endpoints)
 7. [Contributors](#contributors)
 8. [License](#license)
+9. [Screenshot](#screenshot)
 
 ---
 
